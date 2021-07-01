@@ -1,0 +1,22 @@
+.contact{
+    border-top: 1px solid green;
+    border-bottom: 1px solid green;
+    width: 30%;
+    padding-bottom: 5px;
+}
+
+.container {
+    position: relative;
+}
+
+.trash {
+    position: absolute;
+    top: 0px;
+    right: 70px;
+}
+
+.edit {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+}
